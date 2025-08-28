@@ -1,0 +1,1 @@
+Store k andar reducer hota . jo events ko handle karta hey called reducer.
